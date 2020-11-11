@@ -1,3 +1,7 @@
 .newsletter h2 {
 	color: red;
 }
+
+footer input[type="email"]:invalid {
+	background-color: red;
+}
